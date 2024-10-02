@@ -1,10 +1,10 @@
 # ¡Bienvenido a Seth&Nut!
 
-**Seth&Nut** es una organización dedicada a democratizar la educación en programación y matemáticas. A través de programas educativos gratuitos, recursos didácticos, mentorías personalizadas y una activa participación en comunidades, nos comprometemos a ofrecer educación accesible y de calidad a personas de todos los niveles.
+**Seth&Nut** es una organización dedicada a democratizar la educación en programación y matemáticas. A través de programas educativos accesibles, recursos didácticos, mentorías personalizadas y una activa participación en comunidades, nos comprometemos a ofrecer educación de calidad a personas de todos los niveles.
 
 ## Servicios
 
-- **Programas Educativos Gratuitos**: Cursos y talleres de programación y matemáticas para todos los niveles.
+- **Programas Educativos Accesibles**: Cursos y talleres de programación y matemáticas para todos los niveles.
 - **Recursos Didácticos**: Materiales educativos de alta calidad, como guías de estudio, ejercicios interactivos y tutoriales en video.
 - **Acompañamiento y Mentorías**: Apoyo personalizado para estudiantes en su camino de aprendizaje.
 
